@@ -1,0 +1,7 @@
+D:\Phase3\18-8\Assignment 6\Assignment 6\bin\Debug\Assignment 6.exe.config
+D:\Phase3\18-8\Assignment 6\Assignment 6\bin\Debug\Assignment 6.exe
+D:\Phase3\18-8\Assignment 6\Assignment 6\bin\Debug\Assignment 6.pdb
+D:\Phase3\18-8\Assignment 6\Assignment 6\obj\Debug\Assignment 6.csproj.AssemblyReference.cache
+D:\Phase3\18-8\Assignment 6\Assignment 6\obj\Debug\Assignment 6.csproj.CoreCompileInputs.cache
+D:\Phase3\18-8\Assignment 6\Assignment 6\obj\Debug\Assignment 6.exe
+D:\Phase3\18-8\Assignment 6\Assignment 6\obj\Debug\Assignment 6.pdb
